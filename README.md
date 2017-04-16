@@ -9,3 +9,5 @@ For example:
 * Sailing to Byzantium
 * A Prayer for His Daughter
 * The Second Coming
+
+Attempting to edit this on my iPhone, but it appears to have been necessary to click on "Desktop version"
