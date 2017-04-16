@@ -11,3 +11,5 @@ For example:
 * The Second Coming
 
 Attempting to edit this on my iPhone, but it appears to have been necessary to click on "Desktop version"
+
+Trying to edit on git2go
